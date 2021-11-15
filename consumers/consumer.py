@@ -96,8 +96,12 @@ class KafkaConsumer:
         #
         message = consumer.poll(time=0.1)
         if message is None:
+            logger.info('Missing message')
             return 0
+        elif message.error():
+            logger.info('Error message')
         else:
+            self.message_handler(message)
             print(message.key(), message.value())
             return 1
 
