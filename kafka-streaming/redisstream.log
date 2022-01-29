@@ -1,0 +1,45 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+---------+
+|               email|birthYear|
++--------------------+---------+
+|   sam.test@test.com|     2001|
+|Jason.Clark@test.com|     1964|
+|Senthil.Olson@tes...|     1963|
+|David.Staples@tes...|     1962|
+|    John.Wu@test.com|     1961|
+|John.Sanchez@test...|     1960|
+|Danny.Jefferson@t...|     1959|
+|Chris.Jackson@tes...|     1958|
+|Craig.Gonzalez@te...|     1957|
+|Larry.Jones@test.com|     1955|
+|Ashley.Jones@test...|     1954|
+|Santosh.Sanchez@t...|     1953|
+|Chris.Phillips@te...|     1952|
+|Sean.Spencer@test...|     1951|
+|Gail.Aristotle@te...|     1950|
+|David.Clayton@tes...|     1949|
+|Danny.Mitra@test.com|     1948|
+|Sean.Hansen@test.com|     1947|
+|Neeraj.Habschied@...|     1946|
+| Jane.Ahmed@test.com|     1945|
++--------------------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++-----+---------+
+|email|birthYear|
++-----+---------+
++-----+---------+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++-----+---------+
+|email|birthYear|
++-----+---------+
++-----+---------+
+

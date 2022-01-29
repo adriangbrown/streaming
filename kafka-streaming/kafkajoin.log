@@ -1,0 +1,29 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Travis.Olson@test...| -9.0|Travis.Olson@test...|     1945|
+|Travis.Olson@test...|-31.0|Travis.Olson@test...|     1945|
+|Travis.Olson@test...| 15.5|Travis.Olson@test...|     1945|
+|Travis.Olson@test...| 47.0|Travis.Olson@test...|     1945|
+|Travis.Olson@test...| -5.5|Travis.Olson@test...|     1945|
+|Travis.Olson@test...| 24.0|Travis.Olson@test...|     1945|
+|Travis.Olson@test...| 18.5|Travis.Olson@test...|     1945|
+|Travis.Olson@test...|-11.0|Travis.Olson@test...|     1945|
+|Travis.Olson@test...| -3.5|Travis.Olson@test...|     1945|
+|Travis.Olson@test...| -9.5|Travis.Olson@test...|     1945|
+|Travis.Olson@test...| -4.5|Travis.Olson@test...|     1945|
+|Travis.Olson@test...| -7.5|Travis.Olson@test...|     1945|
+|Travis.Olson@test...|-17.5|Travis.Olson@test...|     1945|
+|Travis.Olson@test...| -6.5|Travis.Olson@test...|     1945|
+|Travis.Olson@test...|  9.0|Travis.Olson@test...|     1945|
+|Travis.Olson@test...| 17.0|Travis.Olson@test...|     1945|
+|Travis.Olson@test...| -0.5|Travis.Olson@test...|     1945|
+|Travis.Olson@test...| -1.5|Travis.Olson@test...|     1945|
+|Travis.Olson@test...|  8.5|Travis.Olson@test...|     1945|
+|Travis.Olson@test...|  1.5|Travis.Olson@test...|     1945|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows
+
